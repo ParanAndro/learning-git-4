@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather+Sans");
 @import url("https://fonts.googleapis.com/css?family=Arimo|Merriweather+Sans");
 @import url("https://fonts.googleapis.com/css?family=Arimo|Merriweather+Sans|Roboto+Condensed");
+body {
+  background-color: #EAEAAE; }
+
 .container {
   width: 100%;
   max-width: 1200px;
@@ -10,7 +13,7 @@
   text-align: center; }
 
 h1 {
-  font: 26px Merriweather Sans, sans-serif;
+  font: 30px Merriweather Sans, sans-serif;
   font-weight: bold;
   color: #545454; }
 
