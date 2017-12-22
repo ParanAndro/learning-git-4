@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather+Sans");
+@import url("https://fonts.googleapis.com/css?family=Arimo|Merriweather+Sans");
+@import url("https://fonts.googleapis.com/css?family=Arimo|Merriweather+Sans|Roboto+Condensed");
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.content {
+  text-align: center; }
+
+h1 {
+  font: 26px Merriweather Sans, sans-serif;
+  font-weight: bold;
+  color: #545454; }
+
+h4 {
+  font: 12px Arimo, sans-serif;
+  color: #A62A2A; }
+
+.text {
+  font: 16px/26px Roboto Condensed, sans-serif;
+  width: 35%;
+  color: #545454;
+  margin: 0 auto; }
+
+.verse {
+  border-bottom: 1px solid #A62A2A;
+  padding: 10px; }
+
+/*# sourceMappingURL=song_style.css.map */
